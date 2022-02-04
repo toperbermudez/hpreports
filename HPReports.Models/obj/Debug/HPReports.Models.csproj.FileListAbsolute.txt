@@ -1,0 +1,5 @@
+D:\SAP\PROGRAMS\HPReports\HPReports.Models\bin\Debug\HPReports.Models.dll
+D:\SAP\PROGRAMS\HPReports\HPReports.Models\bin\Debug\HPReports.Models.pdb
+D:\SAP\PROGRAMS\HPReports\HPReports.Models\obj\Debug\HPReports.Models.csprojResolveAssemblyReference.cache
+D:\SAP\PROGRAMS\HPReports\HPReports.Models\obj\Debug\HPReports.Models.dll
+D:\SAP\PROGRAMS\HPReports\HPReports.Models\obj\Debug\HPReports.Models.pdb

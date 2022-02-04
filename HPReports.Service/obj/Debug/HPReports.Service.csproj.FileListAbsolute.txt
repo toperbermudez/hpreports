@@ -1,0 +1,16 @@
+D:\SAP\PROGRAMS\HPReports\HPReports.Service\bin\Debug\HPReports.Service.dll
+D:\SAP\PROGRAMS\HPReports\HPReports.Service\bin\Debug\HPReports.Service.pdb
+D:\SAP\PROGRAMS\HPReports\HPReports.Service\bin\Debug\HPReports.Models.dll
+D:\SAP\PROGRAMS\HPReports\HPReports.Service\bin\Debug\HPReports.Repositories.dll
+D:\SAP\PROGRAMS\HPReports\HPReports.Service\bin\Debug\Dapper.dll
+D:\SAP\PROGRAMS\HPReports\HPReports.Service\bin\Debug\HPReports.Models.pdb
+D:\SAP\PROGRAMS\HPReports\HPReports.Service\bin\Debug\HPReports.Repositories.pdb
+D:\SAP\PROGRAMS\HPReports\HPReports.Service\bin\Debug\Dapper.xml
+D:\SAP\PROGRAMS\HPReports\HPReports.Service\obj\Debug\HPReports.Service.csprojResolveAssemblyReference.cache
+D:\SAP\PROGRAMS\HPReports\HPReports.Service\obj\Debug\HPReports.Service.dll
+D:\SAP\PROGRAMS\HPReports\HPReports.Service\obj\Debug\HPReports.Service.pdb
+D:\SAP\PROGRAMS\HPReports\HPReports.Service\bin\Debug\EPPlus.dll
+D:\SAP\PROGRAMS\HPReports\HPReports.Service\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\SAP\PROGRAMS\HPReports\HPReports.Service\bin\Debug\System.ComponentModel.Annotations.dll
+D:\SAP\PROGRAMS\HPReports\HPReports.Service\bin\Debug\EPPlus.xml
+D:\SAP\PROGRAMS\HPReports\HPReports.Service\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml

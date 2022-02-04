@@ -1,0 +1,9 @@
+D:\SAP\PROGRAMS\HPReports\HPReports.Repositories\bin\Debug\HPReports.Repositories.dll
+D:\SAP\PROGRAMS\HPReports\HPReports.Repositories\bin\Debug\HPReports.Repositories.pdb
+D:\SAP\PROGRAMS\HPReports\HPReports.Repositories\bin\Debug\Dapper.dll
+D:\SAP\PROGRAMS\HPReports\HPReports.Repositories\bin\Debug\HPReports.Models.dll
+D:\SAP\PROGRAMS\HPReports\HPReports.Repositories\bin\Debug\HPReports.Models.pdb
+D:\SAP\PROGRAMS\HPReports\HPReports.Repositories\bin\Debug\Dapper.xml
+D:\SAP\PROGRAMS\HPReports\HPReports.Repositories\obj\Debug\HPReports.Repositories.csprojResolveAssemblyReference.cache
+D:\SAP\PROGRAMS\HPReports\HPReports.Repositories\obj\Debug\HPReports.Repositories.dll
+D:\SAP\PROGRAMS\HPReports\HPReports.Repositories\obj\Debug\HPReports.Repositories.pdb

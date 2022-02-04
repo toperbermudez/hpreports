@@ -1,0 +1,23 @@
+<div id="layoutSidenav_content">
+    <div class="container-fluid">
+        <div class="row mt-5">
+            <div class="col-sm-4 offset-sm-4 card border-0 bg-light px-5">
+                <div class="card-body text-center">
+                    <form ng-submit="login()">
+                        <h1 id="login-title" class="h3 mb-3 font-weight-normal">HP Reports</h1>
+                        <div class="form-group">
+                            <label for="username" class="sr-only">Username</label>
+                            <input ng-disabled="loading" type="text" id="username" class="form-control font-normal border-bottom-0 rounded-top p-4" placeholder="Username" ng-model="user.id" required>
+                            <label for="password" class="sr-only">Password</label>
+                            <input ng-disabled="loading" type="password" id="password" class="form-control font-normal p-4 rounded-bottom" placeholder="Password" ng-model="user.pass" required>
+                        </div>
+                        <button ng-disabled="loading" class="btn btn-lg btn-primary font-lg btn-block rounded py-2" type="submit">
+                            <span ng-if="loading"><span class="spinner-border spinner-border-sm" style="height:1em; width:1em;" role="status"></span> Please wait..</span>
+                            <span ng-if="!loading"><i class="fal fa-user-lock"></i> Sign in</span>
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
